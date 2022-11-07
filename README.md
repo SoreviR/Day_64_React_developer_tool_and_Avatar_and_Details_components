@@ -1,0 +1,2 @@
+# Day_64_React_developer_tool_and_Avatar_and_Details_components
+Created with CodeSandbox
